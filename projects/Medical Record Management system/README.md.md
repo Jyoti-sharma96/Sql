@@ -1,4 +1,4 @@
-# Hospital Management System - SQL Practical Exam
+# Hospital Management System 
 
 A comprehensive MySQL-based Hospital Management System project developed as part of practical coursework. It covers end-to-end database design, relationship mapping, advanced SQL functions, and operations to manage administrative tasks efficiently.
 
